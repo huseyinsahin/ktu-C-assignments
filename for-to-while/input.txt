@@ -1,0 +1,15 @@
+//Örnek Açıklama Satırı
+
+
+#include <stdio.h>
+
+int main(void)
+{
+  int id;
+
+  for (id=0; ;id++) {
+       printf("%d ", id);
+  }
+  
+  return 0;
+}

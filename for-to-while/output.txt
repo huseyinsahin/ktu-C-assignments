@@ -1,0 +1,17 @@
+//Örnek Açıklama Satırı
+
+
+#include <stdio.h>
+
+int main(void)
+{
+  int id;
+
+  id=0;
+	while( ) {
+       printf("%d ", id);
+  	id++;
+	}
+  
+  return 0;
+}
